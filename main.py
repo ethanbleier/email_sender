@@ -15,9 +15,9 @@ class EmailSenderApp(QMainWindow):
         self.initUI()
 
         # Assigning sheet ID variable, sender email, and protected password
-        self.sheet_id = '1oMJ-cRPvW48Wqee-67NpxzbvsB80CJrDliYGAWirTRw'
+        self.sheet_id = ''
         self.sender_email = 'ebleier4@gmail.com'
-        self.sender_password = 'jxzmdxyzyprwhrij'
+        self.sender_password = ''
 
     def initUI(self):
         self.setWindowTitle("Email Sender App")
