@@ -1,8 +1,12 @@
-# Our mission is to amplify your reach with GMAIL
-A close friend of mine once said he needed a service that could send out cusomized marketing emails for free, so I offered to try and take a crack at it and eventually sold him a script that was like, barely scraping by, but technically checked off enough criteria to be useful. So I sold out lol. 
+# Our mission is to amplify your reach with GMAIL.
+*v2 is coming*
 
-I was proud of it then, but a few details bothered me. And I have new ideas.
+----
+A close friend of mine once said he needed a service that could send out cusomized marketing emails for free, so I offered to try and take a crack at it and eventually sold him a script that was like, barely scraping by, but technically checked off enough criteria to be useful. I forgot all about it.
 
-__GOALS:__\
-_Long Term:_ something shippable; something I'm proud of\
-_Short Term:_ refine a useful and easily sharable niche service
+___concept___
+
+_Short Term:_ develop and refine an email service that both my friends and I use. Example use case: send hundreds of trending tiktokers an offer to advertise your clothing brand. Next repo: scraping trending tiktokers' emails off tiktok
+
+_Long Term:_ free download from Apple app store
+_Considerations:_ one-time 'clear all ads' microtransaction. $10. _"watch an ad, send as many emails as your heart desires"_ lol. 
