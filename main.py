@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.11
 # main.py
 import sys
 
@@ -14,7 +15,6 @@ class EmailSenderApp(QMainWindow):
 
         self.initUI()
 
-        # Assigning sheet ID variable, sender email, and protected password
         self.sheet_id = ''
         self.sender_email = 'ebleier4@gmail.com'
         self.sender_password = ''
